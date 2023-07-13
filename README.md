@@ -2,6 +2,8 @@
 
 A seat finder app for Indian trains.
 
+https://github.com/dev-abir/train_buddy/assets/58767260/f477c7cc-f8db-4b04-81b7-af8345676a1d
+
 ## How to run?
 
 1. Make sure you have installed the flutter(flutter.dev) and android sdk. Run `flutter doctor` in the terminal, check the output, if everything seems okay, proceed to the next step.

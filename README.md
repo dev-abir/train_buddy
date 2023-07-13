@@ -6,6 +6,8 @@ https://github.com/dev-abir/train_buddy/assets/58767260/f477c7cc-f8db-4b04-81b7-
 
 ## How to run?
 
+**You can also download a relase apk from the releases page (on right)**
+
 1. Make sure you have installed the flutter(flutter.dev) and android sdk. Run `flutter doctor` in the terminal, check the output, if everything seems okay, proceed to the next step.
 
 2. Start an android emulator or prepare your physical android device and USB debugging.
